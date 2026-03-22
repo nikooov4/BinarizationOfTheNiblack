@@ -23,7 +23,7 @@
 
 | Исходное изображение 1 | Исходное изображение 2 | Исходное изображение 3 |
 |---|---|---|
-| ![Input 1](./BinarizationOfTheNiblack/raw_images/image_04.png) | ![Input 2](../BinarizationOfTheNiblack/raw_images/image_05.png) | ![Input 3](../BinarizationOfTheNiblack/raw_images/image_08.png) |
+| ![Input 1](./raw_images/image_04.png) | ![Input 2](./raw_images/image_05.png) | ![Input 3](./raw_images/image_08.png) |
 
 ---
 
