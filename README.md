@@ -37,7 +37,7 @@ Y = 0.299R + 0.587G + 0.114B
 
 | Полутоновое изображение 1 | Полутоновое изображение 2 | Полутоновое изображение 3 |
 |---|---|---|
-| ![Input 1](../BinarizationOfTheNiblack/gray_bmp/image_04_gray.bmp) | ![Input 2](../BinarizationOfTheNiblack/gray_bmp/image_05_gray.bmp) | ![Input 3](../BinarizationOfTheNiblack/gray_bmp/image_08_gray.bmp) |
+| ![Input 1](./gray_bmp/image_04_gray.bmp) | ![Input 2](./gray_bmp/image_05_gray.bmp) | ![Input 3](./gray_bmp/image_08_gray.bmp) |
 
 
 ---
@@ -59,11 +59,11 @@ K_FOR_25x25 = -0.15
 
 | Бинаризация изображения 1_3×3 | Бинаризация изображения 2_3×3 | Бинаризация изображения 3_3×3 |
 |---|---|---|
-| ![Input 1](../BinarizationOfTheNiblack/binary_niblack/image_04_niblack_3x3.png) | ![Input 2](../BinarizationOfTheNiblack/binary_niblack/image_05_niblack_3x3.png) | ![Input 3](../BinarizationOfTheNiblack/binary_niblack/image_08_niblack_3x3.png) |
+| ![Input 1](./image_04_niblack_3x3.png) | ![Input 2](./binary_niblack/image_05_niblack_3x3.png) | ![Input 3](./binary_niblack/image_08_niblack_3x3.png) |
 
 | Бинаризация изображения 1_25×25 | Бинаризация изображения 2_25×25 | Бинаризация изображения 3_25×25 |
 |---|---|---|
-| ![Input 1](../BinarizationOfTheNiblack/binary_niblack/image_04_niblack_25x25.png) | ![Input 2](../BinarizationOfTheNiblack/binary_niblack/image_05_niblack_25x25.png) | ![Input 3](../BinarizationOfTheNiblack/binary_niblack/image_08_niblack_25x25.png) |
+| ![Input 1](./binary_niblack/image_04_niblack_25x25.png) | ![Input 2](./binary_niblack/image_05_niblack_25x25.png) | ![Input 3](./binary_niblack/image_08_niblack_25x25.png) |
 
 ---
 
